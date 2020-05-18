@@ -1,0 +1,16 @@
+{
+  "name": "vercel-ts-minimum",
+  "version": "1.0.0",
+  "description": "minimum sample for Vercel NOW with TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Memory Lovers",
+  "license": "ISC",
+  "devDependencies": {
+    "@now/node": "^1.6.1",
+    "ts-node": "^8.10.1",
+    "typescript": "^3.9.2"
+  }
+}
